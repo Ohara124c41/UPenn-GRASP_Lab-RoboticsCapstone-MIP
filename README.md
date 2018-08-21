@@ -10,3 +10,11 @@ MPU-6050 Six-Axis (Gyro + Accelerometer) MEMS MotionTracking™ Devices
 [MPU-6050](https://www.invensense.com/products/motion-tracking/6-axis/mpu-6050/)
 
 ---
+
+
+e 
+i
+​	 (t):=∫ 
+0
+t
+​	 ϕ(σ)dσ
